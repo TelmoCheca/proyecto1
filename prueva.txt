@@ -9,3 +9,5 @@ Esta es una prueva de cambio de verciones
 4 cuarta linea
 
 5 quinta linea segundo commit
+
+6 liea despues del reset
