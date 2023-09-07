@@ -1,0 +1,22 @@
+main{
+    width: 85%;
+    text-align: center;
+    margin: 25px auto;
+    background-color: lightsalmon;
+    color: blue;
+}
+
+.container{
+    width: 75%;
+    padding: 25px;
+    margin: 0 auto;
+    background-color: lightgray;
+}
+
+.box{
+    border: 2px solid black;
+    margin: 10px;
+    height: 100px;
+    line-height: 100px;
+    background-color: rgb(120, 235, 120);
+}
