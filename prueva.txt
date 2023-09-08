@@ -4,10 +4,10 @@ Esta es una prueva de cambio de verciones
 
 2 segund linea 
 
-3 tersera linea 
+3 tersera linea con un cambio
 
 4 cuarta linea
 
-5 quinta linea segundo commit
+5 quinta linea 
 
-6 liea despues del reset
+6 linea CE Prueva.
