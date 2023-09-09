@@ -7,13 +7,13 @@ body{
     padding: 0;
 }
 
-#canecera{
+#cabecera{
     background: #33a;
-    box-shadow: 0px 2px 20px 0 rgba(0,0,0,0,0.5);
     color: white;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.75);
     font-weight: bold;
     margin: 0;
-    padding: 0;
+    padding: 0.5em;
 }
 
 #cabecera #text{
