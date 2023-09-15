@@ -26,8 +26,9 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 3px solid #ddd;
     margin: 0 auto;
+    background-color: rgba(165, 236, 213, 0.643);
 }
 
 #container h1{
