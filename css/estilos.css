@@ -32,4 +32,5 @@ body{
 
 #container h1{
     font-size: 20px;
+    text-shadow: 5px 5px 3px  #c3c3c3;
 }
