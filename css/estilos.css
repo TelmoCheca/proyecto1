@@ -33,4 +33,5 @@ body{
 
 #container h1{
     font-size: 20px;
+    text-shadow: 0.9px 0.6px 2px  rgb(131, 243, 97);
 }
